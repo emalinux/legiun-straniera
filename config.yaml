@@ -1,0 +1,20 @@
+baseURL: "/"
+title: "La Legiun Straniera"
+defaultContentLanguage: it
+enableInlineShortcodes: true
+enableRobotsTXT: true
+theme: "legiun-theme"
+
+languages:
+  it:
+    weight: 1
+    languageName: Italiano
+    title: La Legiun Straniera
+  en:
+    weight: 2
+    languageName: English
+    title: The Foreign Legion
+  fr:
+    weight: 3
+    languageName: Français
+    title: La Légion Étrangère
