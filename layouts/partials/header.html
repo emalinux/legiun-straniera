@@ -1,0 +1,19 @@
+<nav>
+  <div class="container">
+    <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+    <ul class="nav-links">
+      <li><a href="{{ "/" | relLangURL }}">Home</a></li>
+      <li><a href="{{ "camere" | relLangURL }}">Le Camere</a></li>
+      <li><a href="#prenotazioni">Prenotazioni</a></li>
+      <li><a href="{{ "chi-siamo" | relLangURL }}">La nostra storia</a></li>
+      <li><a href="{{ "servizi" | relLangURL }}">Servizi</a></li>
+      <li><a href="{{ "regolamento" | relLangURL }}">Regolamento</a></li>
+      <li><a href="{{ "contatti" | relLangURL }}">Contatti</a></li>
+    </ul>
+    <ul class="lang-switch">
+      {{ range .Site.Languages }}
+        <li><a href="{{ .Lang | relLangURL }}">{{ .LanguageName }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+</nav>

@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+<section class="page-box">
+  <div class="page-img">
+    <img src="{{ .Params.image }}" alt="{{ .Title }}">
+  </div>
+  <div class="page-text">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </div>
+</section>
+
+{{ end }}

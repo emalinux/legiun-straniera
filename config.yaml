@@ -3,7 +3,7 @@ title: "La Legiun Straniera"
 defaultContentLanguage: it
 enableInlineShortcodes: true
 enableRobotsTXT: true
-theme: "legiun-theme"
+# theme: "legiun-theme"
 
 languages:
   it:
@@ -18,3 +18,8 @@ languages:
     weight: 3
     languageName: Français
     title: La Légion Étrangère
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true    

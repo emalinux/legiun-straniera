@@ -1,0 +1,240 @@
+body {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  header, footer {
+    background: #222;
+    color: #fff;
+    padding: 1rem;
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+
+  .hero {
+    background: url("/img/hero-legiun.jpg") center/cover no-repeat;
+    padding: 5rem 2rem;
+    color: white;
+    text-align: center;
+  }
+  .hero-inner {
+    background: rgba(0, 0, 0, 0.5);
+    display: inline-block;
+    padding: 2rem;
+    border-radius: 15px;
+  }
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    padding: 2rem;
+  }
+  .card {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 1.5rem;
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  .card a {
+    display: inline-block;
+    margin-top: 1rem;
+    color: #0077cc;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .card a:hover {
+    text-decoration: underline;
+  }
+
+  .card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px 10px 0 0;
+  }
+
+  nav {
+    background: #222;
+    color: white;
+    padding: 1rem 2rem;
+  }
+  nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  .nav-links, .lang-switch {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .lang-switch {
+    font-size: 0.9rem;
+  }
+
+  .hero {
+    background: url("/img/hero-legiun.jpg") center/cover no-repeat;
+    padding: 5rem 2rem;
+    color: white;
+    text-align: center;
+  }
+  .hero-inner {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 2rem;
+    display: inline-block;
+    border-radius: 12px;
+  }
+
+  .single-hero img {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: cover;
+    display: block;
+  }
+  
+  .pagina {
+    padding: 3rem 2rem;
+  }
+  .pagina-inner {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .pagina-testo {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  .pagina-testo h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  .pagina-testo a {
+    display: inline-block;
+    margin-top: 2rem;
+    color: #0077cc;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .pagina-testo a:hover {
+    text-decoration: underline;
+  }
+
+  .page-box {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .page-img {
+    flex: 1 1 400px;
+  }
+  
+  .page-img img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    object-fit: cover;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+  
+  .page-text {
+    flex: 1 1 500px;
+  }
+  
+  .page-text h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .page-text p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+
+  .page-text a.btn {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    background-color: #0077cc;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-top: 1rem;
+    font-weight: bold;
+    transition: all 0.3s ease;
+  }
+  
+  .page-text a.btn:hover {
+    background-color: #005fa3;
+    transform: scale(1.05);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    letter-spacing: 0.5px;
+  }
+
+  .btn-contattaci {
+    display: inline-block;
+    padding: 0.6em 1.2em;
+    margin-top: 1em;
+    font-weight: bold;
+    font-family: 'Libre Baskerville', serif;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #8B5E3C; /* marrone caldo */
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+  }
+  
+  .btn-contattaci:hover {
+    background-color: #a56f48;
+    transform: scale(1.05);
+  }
+
+  .story-section {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 2rem;
+    margin: 3rem 0;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .story-section img {
+    width: 400px;
+    max-width: 100%;
+    border-radius: 12px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  .story-text {
+    max-width: 500px;
+  }

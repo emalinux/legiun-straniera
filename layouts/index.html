@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+<section class="hero">
+    <div class="hero-inner">
+      <h1>Casa Vacanze "La Legiun Straniera"</h1>
+      <p>Il tuo alloggio vacanza a Fontanelle di Boves (CN)</p>
+    </div>
+  </section>
+
+<section class="cards">
+    <div class="card">
+      <img src="/img/cottura.jpg" alt="Angolo cottura">
+      <h2>Angolo Cottura</h2>
+      <p>Sono presenti tutti gli elettrodomestici con lavastoglie e sala da pranzo </p>
+      <a href="{{ "chi-siamo" | relLangURL }}">Scopri di più</a>
+    </div>
+  
+    <div class="card">
+      <img src="/img/camera.jpg" alt="Camera da letto">
+      <h2>Camere da Letto</h2>
+      <p>Camera doppia con letto matrimoniale e balcone lato giardino</p>
+      <a href="{{ "camere" | relLangURL }}">Vai alla sezione</a>
+    </div>
+  
+    <div class="card">
+      <img src="/img/bagno.jpg" alt="Bagno privato">
+      <h2>Bagno privato</h2>
+      <p>Bagno privato con tutti i comfort - casa non attrezzata per portatori di handicap</p>
+      <a href="{{ "contatti" | relLangURL }}">Contattaci</a>
+    </div>
+  </section>
+
+{{ end }}
