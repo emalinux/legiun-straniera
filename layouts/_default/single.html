@@ -1,13 +1,10 @@
 {{ define "main" }}
-
-<section class="page-box">
-  <div class="page-img">
-    <img src="{{ .Params.image }}" alt="{{ .Title }}">
+<div class="chi-siamo-container">
+  <div class="chi-siamo-immagine">
+    <img src="/img/chi-siamo.jpg" alt="Interno casa vacanza">
   </div>
-  <div class="page-text">
-    <h1>{{ .Title }}</h1>
+  <div class="chi-siamo-testo">
     {{ .Content }}
   </div>
-</section>
-
+</div>
 {{ end }}

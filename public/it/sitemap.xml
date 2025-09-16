@@ -8,7 +8,7 @@
   </url><url>
     <loc>//localhost:1313/it/</loc>
   </url><url>
-    <loc>//localhost:1313/it/chi-siamo/</loc>
+    <loc>//localhost:1313/en/chi-siamo/</loc>
   </url><url>
     <loc>//localhost:1313/it/camere/</loc>
   </url><url>
@@ -47,6 +47,10 @@
                 hreflang="it"
                 href="//localhost:1313/"
                 />
+  </url><url>
+    <loc>//localhost:1313/it/chi-siamo/</loc>
+  </url><url>
+    <loc>//localhost:1313/fr/chi-siamo/</loc>
   </url><url>
     <loc>//localhost:1313/it/regolamento/</loc>
   </url><url>

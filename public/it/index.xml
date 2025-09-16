@@ -8,13 +8,6 @@
     <language>it</language>
     <atom:link href="//localhost:1313/it/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>//localhost:1313/it/chi-siamo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/it/chi-siamo/</guid>
-      <description>&lt;div style=&#34;display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;&#34;&gt;&#xA;  &lt;!-- IMMAGINE --&gt;&#xA;  &lt;div style=&#34;flex: 1; min-width: 280px;&#34;&gt;&#xA;    &lt;img src=&#34;//localhost:1313/chi-siamo.jpg&#34; alt=&#34;interno casa vacanza&#34; style=&#34;border-radius: 8px; max-width: 100%;&#34;&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;!-- TESTO --&gt;&#xA;  &lt;div style=&#34;flex: 2; min-width: 280px;&#34;&gt;&#xA;    &lt;h2&gt;La nostra storia&lt;/h2&gt;&#xA;    &lt;p&gt;&lt;strong&gt;La Legiun Straniera&lt;/strong&gt; nasce come casa vacanza nel &lt;strong&gt;2015&lt;/strong&gt;, dopo una ristrutturazione completa di un’antica osteria gestita dai nostri nonni fino al &lt;strong&gt;1971&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;Il nome “&amp;lt;strong&amp;gt;La Legiun Straniera&amp;lt;/strong&amp;gt;” deriva da un curioso aneddoto del dopoguerra, legato al nostro territorio e alla nostra famiglia.&amp;lt;/p&amp;gt;&#xA;&#xA;&amp;lt;p&amp;gt;Siamo &amp;lt;strong&amp;gt;Oscar e Patrizia&amp;lt;/strong&amp;gt;, e vi aspettiamo per farvi scoprire le bellezze delle nostre valli ospitandovi in una &amp;lt;strong&amp;gt;casa indipendente&amp;lt;/strong&amp;gt;, accogliente e attrezzata con tutti i comfort.&amp;lt;/p&amp;gt;&#xA;&#xA;&amp;lt;hr&amp;gt;&#xA;&#xA;&amp;lt;p&amp;gt;📍 Fontanelle di Boves – Provincia di Cuneo&amp;lt;/p&amp;gt;&#xA;&amp;lt;a href=&amp;quot;{{ &amp;quot;contatti&amp;quot; | relLangURL }}&amp;quot; style=&amp;quot;display: inline-block; padding: 8px 16px; background-color: #7c4c2e; color: white; text-decoration: none; border-radius: 6px; margin-top: 0.5rem;&amp;quot;&amp;gt;Contattaci&amp;lt;/a&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
       <title>Camere</title>
       <link>//localhost:1313/it/camere/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,6 +22,13 @@
       <description>&lt;p&gt;📧 Email: &lt;a href=&#34;mailto:oscar.macagno1961@gmail.com&#34;&gt;oscar.macagno1961@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;📍 Indirizzo: Via San Giovanni 19 - Fontanelle di Boves (CN) - 12012&lt;br&gt;&#xA;📞 Oscar: +39 349 47 36 914&#xA;📞 Patrizia: +39 349 649 7088&lt;/p&gt;&#xA;&lt;p&gt;Per maggiori informazioni scrivici o seguici sui social.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>La nostra storia</title>
+      <link>//localhost:1313/it/chi-siamo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/it/chi-siamo/</guid>
+      <description>&lt;h2 id=&#34;la-nostra-storia&#34;&gt;La nostra storia&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;La Legiun Straniera&lt;/strong&gt; nasce come casa vacanza nel &lt;strong&gt;2015&lt;/strong&gt;, dopo una ristrutturazione completa di un’antica osteria gestita dai nostri nonni fino al &lt;strong&gt;1971&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Il nome “&lt;strong&gt;La Legiun Straniera&lt;/strong&gt;” deriva da un curioso aneddoto del dopoguerra, legato al nostro territorio e alla nostra famiglia.&lt;/p&gt;&#xA;&lt;p&gt;Siamo &lt;strong&gt;Oscar e Patrizia&lt;/strong&gt;, e vi aspettiamo per farvi scoprire le bellezze delle nostre valli ospitandovi in una casa indipendente, accogliente e attrezzata con tutti i comfort.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Regolamento</title>
       <link>//localhost:1313/it/regolamento/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -36,11 +36,11 @@
       <description>&lt;p&gt;🏡 &lt;strong&gt;Regole della struttura – LA LEGIUN STRANIERA&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-orari-di-check-in-e-check-out&#34;&gt;⏰ Orari di Check-in e Check-out&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Arrivo&lt;/strong&gt;: dalle 17:00 alle 21:00&lt;br&gt;&#xA;📩 &lt;em&gt;Ti chiediamo gentilmente di comunicarci in anticipo l’orario previsto di arrivo.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Partenza&lt;/strong&gt;: dalle 10:00 alle 11:00&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-cancellazioni-e-pagamenti&#34;&gt;❌ Cancellazioni e Pagamenti&lt;/h3&gt;&#xA;&lt;p&gt;Le condizioni relative alla cancellazione e al pagamento anticipato possono variare in base al tipo di alloggio.&lt;br&gt;&#xA;📅 &lt;em&gt;Ti consigliamo di verificare le condizioni specifiche al momento della prenotazione.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-bambini-e-letti&#34;&gt;👶 Bambini e Letti&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I bambini di tutte le età sono i benvenuti&lt;/li&gt;&#xA;&lt;li&gt;❌ Non sono disponibili culle o letti supplementari&lt;/li&gt;&#xA;&lt;li&gt;ℹ️ Per info su prezzi e occupazione, indica sempre numero ed età dei bambini in fase di prenotazione&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-età-minima&#34;&gt;🆓 Età minima&lt;/h3&gt;&#xA;&lt;p&gt;Nessun limite di età per effettuare il check-in. Tutti sono i benvenuti!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Servizi</title>
+      <title>Servizi offerti – LA LEGIUN STRANIERA</title>
       <link>//localhost:1313/it/servizi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/it/servizi/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;title-servizi&#34;&gt;title: &amp;ldquo;Servizi&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;🛎️ &lt;strong&gt;Servizi offerti – LA LEGIUN STRANIERA&lt;/strong&gt;&lt;br&gt;&#xA;✨ Comfort e praticità per il tuo soggiorno&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;gli-ospiti-apprezzano-in-particolare&#34;&gt;Gli ospiti apprezzano in particolare:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🚗 Parcheggio gratuito&lt;/li&gt;&#xA;&lt;li&gt;🚭 Camere non fumatori&lt;/li&gt;&#xA;&lt;li&gt;📶 Wi-Fi incluso&lt;/li&gt;&#xA;&lt;li&gt;🛁 Bagno privato&lt;/li&gt;&#xA;&lt;li&gt;📺 TV a schermo piatto&lt;/li&gt;&#xA;&lt;li&gt;🍳 Angolo cottura attrezzato&lt;/li&gt;&#xA;&lt;li&gt;🧺 Lavatrice&lt;/li&gt;&#xA;&lt;li&gt;🌅 Balcone o terrazza con vista&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-parcheggio&#34;&gt;🚘 Parcheggio&lt;/h3&gt;&#xA;&lt;p&gt;Parcheggio privato e gratuito disponibile direttamente in loco.&lt;br&gt;&#xA;Non è richiesta prenotazione.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-connessione-internet&#34;&gt;📶 Connessione Internet&lt;/h3&gt;&#xA;&lt;p&gt;Wi-Fi gratuito disponibile in alcune camere.&lt;br&gt;&#xA;💡 &lt;em&gt;Ti consigliamo di chiedere conferma al momento del check-in.&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;h2&gt;🛎️ Servizi offerti – LA LEGIUN STRANIERA&lt;/h2&gt;&#xA;&lt;p&gt;✨ Comfort e praticità per il tuo soggiorno&lt;/p&gt;&#xA;&lt;h2&gt;😊 Gli ospiti apprezzano in particolare:&lt;/h2&gt;&#xA;&lt;ul class=&#34;emoji-list&#34;&gt;&#xA;  &lt;li&gt;🚗 Parcheggio gratuito&lt;/li&gt;&#xA;  &lt;li&gt;🚭 Camere non fumatori&lt;/li&gt;&#xA;  &lt;li&gt;📶 Wi-Fi incluso&lt;/li&gt;&#xA;  &lt;li&gt;🛁 Bagno privato&lt;/li&gt;&#xA;  &lt;li&gt;📺 TV a schermo piatto&lt;/li&gt;&#xA;  &lt;li&gt;🍳 Angolo cottura attrezzato&lt;/li&gt;&#xA;  &lt;li&gt;🧺 Lavatrice&lt;/li&gt;&#xA;  &lt;li&gt;🌅 Balcone o terrazza con vista&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2&gt;🚘 Parcheggio&lt;/h2&gt;&#xA;&lt;p&gt;Parcheggio privato e gratuito disponibile direttamente in loco.&lt;br&gt;&#xA;Non è richiesta prenotazione.&lt;/p&gt;&#xA;&lt;h2&gt;📶 Connessione Internet&lt;/h2&gt;&#xA;&lt;p&gt;Wi-Fi gratuito disponibile in alcune camere.&lt;br&gt;&#xA;💡 &lt;em&gt;Ti consigliamo di chiedere conferma al momento del check-in.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

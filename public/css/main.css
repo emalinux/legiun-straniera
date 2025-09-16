@@ -1,5 +1,5 @@
 body {
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Lora', serif;
     font-size: 1rem;
     line-height: 1.6;
   }
@@ -237,4 +237,86 @@ body {
   
   .story-text {
     max-width: 500px;
+  }
+
+  .chi-siamo-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    align-items: flex-start;
+    margin-top: 2rem;
+  }
+  
+  .chi-siamo-immagine {
+    flex: 1 1 300px;
+    max-width: 500px;
+  }
+  
+  .chi-siamo-immagine img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 6px rgba(0,0,0,0.2);
+  }
+  
+  .chi-siamo-testo {
+    flex: 2 1 400px;
+  }
+
+  .btn-contattaci {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #7c4c2e;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-top: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-contattaci:hover {
+    background-color: #5a3822;
+  }
+
+  .servizi-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+  
+  .servizi-img {
+    flex: 1 1 300px;
+    max-width: 450px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .servizi-content {
+    flex: 2 1 500px;
+    font-family: 'Lora', serif;
+  }
+  
+  .servizi-content h1, .servizi-content h2, .servizi-content h3 {
+    margin-top: 1.5rem;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .emoji-list {
+    list-style: none;
+    padding: 0;
+    margin: 0.5rem 0 1rem 0;
+  }
+  
+  .emoji-list li {
+    margin: 0.25rem 0;
+  }
+  
+  .note-servizi {
+    background-color: #f8f8f8;
+    padding: 1rem;
+    border-left: 5px solid #ccc;
+    margin-top: 2rem;
   }
